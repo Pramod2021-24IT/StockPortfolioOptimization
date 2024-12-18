@@ -1,4 +1,5 @@
 # Stock Portfolio Optimization
+![Screenshot 2024-12-12 111430](https://github.com/user-attachments/assets/1e0deef1-0b9b-4a33-9564-37fa62ec1c50)
 ![Screenshot 2024-12-11 213506](https://github.com/user-attachments/assets/3b30b0f8-b5da-4a56-810f-7839656577af)
 ![Screenshot 2024-12-11 213531](https://github.com/user-attachments/assets/18e22ac4-1fcc-4145-9dba-336f0c519b6e)
 ![Screenshot 2024-12-11 213611](https://github.com/user-attachments/assets/76f361f1-30a2-49e6-af98-ee2db4c3224f)
